@@ -19,7 +19,6 @@ Then in your app or class include
 
 ~~~
 use Dotenv;
-use DMP\Client as Client;
 
 \Dotenv::load(__DIR__.'/../../');
 ~~~
